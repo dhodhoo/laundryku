@@ -1,6 +1,6 @@
 # LaundryKu MVC
 
-LaundryKu MVC adalah project tugas besar Java desktop untuk mata kuliah Pemrograman Berbasis Objek. Project ini mengimplementasikan:
+LaundryKu MVC adalah project tugas besar Java desktop untuk mata kuliah Pemrograman Berorientasi Objek. Project ini mengimplementasikan:
 
 - Asosiasi
 - Agregasi
